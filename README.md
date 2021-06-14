@@ -1,4 +1,4 @@
-# Simple-Dog Showcase App
+# Simple Dog Showcase App
  One page recycler Dog Showcase App
 						Dog Showcase App
 1. When you open the app you will see photos with all dog breeds yesss! (love dogs)
